@@ -13,7 +13,7 @@
 🌱 &nbsp;He explorado lenguajes como Java, SQL, JavaScript, HTML y CSS.\
 ✍️ &nbsp;Actualmente dedico mi tiempo libre a aprender sobre visualización de datos y buenas prácticas de código.\
 💬 &nbsp;Siempre abierta a aprender, colaborar y recibir feedback sobre mis proyectos.\
-✉️ &nbsp;Puedes contactarme en dejimenez71@gmail.com .\
+✉️ &nbsp;Puedes contactarme en dejimenez71@gmail.com
 <!-- 📄 &nbsp;Puedes revisar mi [Currículum](CVJimenez.pdf) para más detalles.-->
 
 <!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> -->
